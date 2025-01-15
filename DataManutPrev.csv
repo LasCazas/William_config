@@ -17,18 +17,18 @@ Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Ga
 000016,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,06/02/2024,06/02/2024,3,Lubrificação das lâminas do misturador.
 000017,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,07/01/2024,07/01/2024,2,Ajuste no motor do misturador.
 000018,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,07/02/2024,07/02/2024,3,Lubrificação das lâminas do misturador.
-000019,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,08/01/2024,08/01/2024,,Ajuste no sistema elétrico do misturador.
-000020,Misturador,Sistema Hidráulico,Sistema hidráulico do misturador whey protein.,08/02/2024,,Ajuste no sistema hidráulico do misturador.
-000021,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,,09-03-24,,Lubrificação das lâminas do misturador.
-000022,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,,09-04-24,,Ajuste no motor do misturador.
-000023,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,,09-05-24,,Lubrificação das lâminas do misturador.
-000024,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,10-03-24,,Ajuste no sistema elétrico do misturador.
-000025,Misturador,Sistema Hidráulico,Sistema hidráulico do misturador whey protein.,10-04-24,,Ajuste no sistema hidráulico do misturador.
-000026,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,,11-03-24,,Lubrificação das lâminas do misturador.
-000027,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,,11-04-24,,Ajuste no motor do misturador.
-000028,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,,12-03-24,,Lubrificação das lâminas do misturador.
-000029,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,12-04-24,,Ajuste no sistema elétrico do misturador.
-000030,Misturizador,Sistema Hidráulico,Sistema hidráulico do Mistura Whey Protein.,13-03-24,,Ajuste no Sistema Hidráulico da Mistura Whey Protein.
+000019,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,08/01/2024,08/01/2024,Ajuste no sistema elétrico do misturador.
+000020,Misturador,Sistema Hidráulico,Sistema hidráulico do misturador whey protein.,08/02/2024,Ajuste no sistema hidráulico do misturador.
+000021,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,09-03-24,Lubrificação das lâminas do misturador.
+000022,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,09-04-24,Ajuste no motor do misturador.
+000023,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,09-05-24,Lubrificação das lâminas do misturador.
+000024,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,10-03-24,Ajuste no sistema elétrico do misturador.
+000025,Misturador,Sistema Hidráulico,Sistema hidráulico do misturador whey protein.,10-04-24,Ajuste no sistema hidráulico do misturador.
+000026,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,11-03-24,Lubrificação das lâminas do misturador.
+000027,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,11-04-24,Ajuste no motor do misturador.
+000028,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,12-03-24,Lubrificação das lâminas do misturador.
+000029,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,12-04-24,Ajuste no sistema elétrico do misturador.
+000030,Misturizador,Sistema Hidráulico,Sistema hidráulico do Mistura Whey Protein.,13-03-24,Ajuste no Sistema Hidráulico da Mistura Whey Protein.
 000031,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,01/01/2024,01/01/2024,3,Lubrificação de componentes mecânicos e verificação de desgaste.
 000032,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/02/2024,01/02/2024,2.5,Inspeção na parte pneumática, ajuste de válvulas.
 000033,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/03/2024,01/03/2024,3,Reparo de vazamento hidráulico e troca de filtros.
@@ -40,32 +40,32 @@ Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Ga
 000039,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,01/09/2024,01/09/2024,3,Lubrificação das lâminas do misturador.
 000040,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,01/10/2024,01/10/2024,2,Ajuste no motor do misturador.
 000041,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,01/11/2024,01/11/2024,3,Lubrificação das lâminas do misturador.
-000042,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,01/12/2024,01/12/2024,,Ajuste no sistema elétrico do misturador.
-000043,Misturador,Sistema Hidráulico,Sistema hidráulico do misturador whey protein.,02/01/2024,02/01/2024,,Ajuste no sistema hidráulico do misturador.
-000044,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,,02-02-24,,Lubrificação das lâminas do misturador.
-000045,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,,02-03-24,,Ajuste no motor do misturador.
-000046,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,,02-04-24,,Lubrificação das lâminas do misturador.
-000047,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,03-03-24,,Ajuste no sistema elétrico do misturador.
-000048,Misturador,Sistema Hidráulico,Sistema hidráulico do misturador whey protein.,03-04-24,,Ajuste no sistema hidráulico do misturador.
-000049,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,,04-03-24,,Lubrificação das lâminas do misturador.
-000050,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,,04-04-24,,Ajuste no motor do misturador.
-000051,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,,05-03-24,,Lubrificação das lâminas do misturador.
-000052,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,05-04-24,,Ajuste no sistema elétrico do misturador.
-000053,Misturador,Sistema Hidráulico,Sistema hidráulico do misturador whey protein.,06-03-24,,Ajuste no sistema hidráulico do misturador.
-000054,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,,06-04-24,,Lubrificação das lâminas do misturador.
-000055,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,,07-03-24,,Ajuste no motor do misturador.
-000056,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,,07-04-24,,Lubrificação das lâminas do misturador.
-000057,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,08-03-24,,Ajuste no sistema elétrico do misturador.
-000058,Misturador,Sistema Hidráulico,Sistema hidráulico do mistor whey protein.,08-04-24,,Ajuste no sistema hidráulico da Mistura Whey Protein..
-000059,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,09-03-24,,Inspeção e limpeza dos filtros da peneira..
-000060,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,09-04-24,,Inspeção e limpeza dos filtros da peneira..
-000061,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,09-05-24,,Inspeção e limpeza dos filtros da peneira..
-000062,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,10-03-24,,Inspeção e limpeza dos filtros da peneira..
-000063,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,10-04-24,,Inspeção e limpeza dos filtros da peneira..
-000064,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,11-03-24,,Inspeção e limpeza dos filtros da peneira..
-000065,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,11-04-24,,Inspeção e limpeza dos filtros da peneira..
-000066,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,12-03-24,,Inspeção e limpeza dos filtros da peneira..
-000067,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,12-04-24,,Inspeção e limpeza dos filtros da peneira.
+000042,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,01/12/2024,01/12/2024,Ajuste no sistema elétrico do misturador.
+000043,Misturador,Sistema Hidráulico,Sistema hidráulico do misturador whey protein.,02/01/2024,02/01/2024,Ajuste no sistema hidráulico do misturador.
+000044,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,02-02-24,Lubrificação das lâminas do misturador.
+000045,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,02-03-24,Ajuste no motor do misturador.
+000046,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,02-04-24,Lubrificação das lâminas do misturador.
+000047,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,03-03-24,Ajuste no sistema elétrico do misturador.
+000048,Misturador,Sistema Hidráulico,Sistema hidráulico do misturador whey protein.,03-04-24,Ajuste no sistema hidráulico do misturador.
+000049,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,04-03-24,Lubrificação das lâminas do misturador.
+000050,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,04-04-24,Ajuste no motor do misturador.
+000051,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,05-03-24,Lubrificação das lâminas do misturador.
+000052,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,05-04-24,Ajuste no sistema elétrico do misturador.
+000053,Misturador,Sistema Hidráulico,Sistema hidráulico do misturador whey protein.,06-03-24,Ajuste no sistema hidráulico do misturador.
+000054,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,06-04-24,Lubrificação das lâminas do misturador.
+000055,Misturador,Motores,Misturador Elétrica sistema de mistura whey protein,07-03-24,Ajuste no motor do misturador.
+000056,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,07-04-24,Lubrificação das lâminas do misturador.
+000057,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,08-03-24,Ajuste no sistema elétrico do misturador.
+000058,Misturador,Sistema Hidráulico,Sistema hidráulico do mistor whey protein.,08-04-24,Ajuste no sistema hidráulico da Mistura Whey Protein..
+000059,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,09-03-24,Inspeção e limpeza dos filtros da peneira..
+000060,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,09-04-24,Inspeção e limpeza dos filtros da peneira..
+000061,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,09-05-24,Inspeção e limpeza dos filtros da peneira..
+000062,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,10-03-24,Inspeção e limpeza dos filtros da peneira..
+000063,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,10-04-24,Inspeção e limpeza dos filtros da peneira..
+000064,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,11-03-24,Inspeção e limpeza dos filtros da peneira..
+000065,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,11-04-24,Inspeção e limpeza dos filtros da peneira..
+000066,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,12-03-24,Inspeção e limpeza dos filtros da peneira..
+000067,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,12-04-24,Inspeção e limpeza dos filtros da peneira.
 000101,Embalagem,Robo,Verificação do sistema de controle do robô de embalagem,01/01/2024,01/01/2024,2,Inspeção no sistema de controle e ajustes.
 000102,Embalagem,Robo,Troca de peças do robô de embalagem,01/02/2024,01/02/2024,3,Troca de componentes desgastados.
 000103,Embalagem,Robo,Lubrificação do robô de embalagem,01/03/2024,01/03/2024,1.5,Lubrificação geral dos motores e articulações.
@@ -75,7 +75,7 @@ Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Ga
 000107,Embalagem,Robo,Troca de sensores do robô de embalagem,01/07/2024,01/07/2024,1.5,Troca dos sensores para melhor detecção.
 000108,Embalagem,Robo,Cleaning do robô de embalagem,01/08/2024,01/08/2024,2,Limpeza completa do robô e verificação de funcionamento.
 000109,Embalagem,Robo,Ajustes finais no robô de embalagem antes da operação contínua,01/09/2024,01/09/2024,2.5,Ajustes e testes finais.
-000110,Embalagem,Robo,Treinamento da equipe sobre o uso do robô de embalagem atualizado,01/10/2024,01/10/2024,,Treinamento da equipe para operação segura e eficiente.
+000110,Embalagem,Robo,Treinamento da equipe sobre o uso do robô de embalagem atualizado,01/10/2024,01/10/2024,Treinamento da equipe para operação segura e eficiente.
 000101,Secador,Ventilador,Inspeção do ventilador do secador de whey protein,01/01/2024,01/01/2024,2,Verificação de funcionamento e limpeza.
 000102,Secador,Ventilador,Troca de lâminas do ventilador do secador,01/02/2024,01/02/2024,3,Troca de lâminas desgastadas.
 000103,Secador,Ventilador,Lubrificação do motor do ventilador do secador,01/03/2024,01/03/2024,1.5,Lubrificação geral e verificação de ruídos.
@@ -85,14 +85,14 @@ Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Ga
 000107,Secador,Ventilador,Troca de sensores do ventilador do secador,01/07/2024,01/07/2024,1.5,Troca dos sensores para melhor detecção.
 000108,Secador,Ventilador,Cleaning do ventilador do secador,01/08/2024,01/08/2024,2,Limpeza completa e verificação de funcionamento.
 000109,Secador,Ventilador,Ajustes finais no ventilador do secador antes da operação contínua,01/09/2024,01/09/2024,2.5,Ajustes e testes finais.
-000110,Secador,Ventilador,Treinamento da equipe sobre o uso do ventilador atualizado no secador,01/10/2024,01/10/2024,,Treinamento da equipe para operação segura e eficiente.
-000111,Secador,Ventilador,Troca de correias do ventilador do secador,01/11/2024,01/11/2024,,Troca das correias desgastadas.
-000112,Secador,Ventilador,Ajuste na inclinação do ventilador do secador para melhor fluxo de ar.,01/12/2024,,Ajustes na inclinação para otimização da secagem.
-000113,Secador,Ventilador,Avaliação de vibrações no ventilador do secador.,02/01/2024,,Verificação e ajustes nas vibrações.
-000114,Secador,Ventilador,Lubrificação das engrenagens do ventilador.,02/02/2024,,Lubrificação das engrenagens para evitar desgaste.
-000115,Secador,Ventilador,Ajuste no timer do ventilador.,02/03/2024,,Ajuste no timer para melhor controle de operação.
-000116,Secador,Ventilador,Troca de filtros de ar no ventilador.,02/04/2024,,Troca dos filtros para garantir qualidade de ar.
-000117,Secador,Ventilador,Avaliação da temperatura do ar no ventilador.,02/05/2024,,Verificação da temperatura para garantir eficiência.
-000118,Secador,Ventilador,Medição de pressão no sistema de ventilação.,02/06/2024,,Medição e ajustes na pressão para melhor funcionamento.
-000119,Secador,Ventilador,Treinamento sobre manutenção preventiva no ventilador.,02/07/2024,,Treinamento da equipe sobre manutenção adequada.
-000120,Secador,Ventilador,Ajustes no sistema elétrico do ventilador.,02/08/2024,,Ajustes elétricos para evitar falhas operacionais.
+000110,Secador,Ventilador,Treinamento da equipe sobre o uso do ventilador atualizado no secador,01/10/2024,01/10/2024,Treinamento da equipe para operação segura e eficiente.
+000111,Secador,Ventilador,Troca de correias do ventilador do secador,01/11/2024,01/11/2024,Troca das correias desgastadas.
+000112,Secador,Ventilador,Ajuste na inclinação do ventilador do secador para melhor fluxo de ar.,01/12/2024,Ajustes na inclinação para otimização da secagem.
+000113,Secador,Ventilador,Avaliação de vibrações no ventilador do secador.,02/01/2024,Verificação e ajustes nas vibrações.
+000114,Secador,Ventilador,Lubrificação das engrenagens do ventilador.,02/02/2024,Lubrificação das engrenagens para evitar desgaste.
+000115,Secador,Ventilador,Ajuste no timer do ventilador.,02/03/2024,Ajuste no timer para melhor controle de operação.
+000116,Secador,Ventilador,Troca de filtros de ar no ventilador.,02/04/2024,Troca dos filtros para garantir qualidade de ar.
+000117,Secador,Ventilador,Avaliação da temperatura do ar no ventilador.,02/05/2024,Verificação da temperatura para garantir eficiência.
+000118,Secador,Ventilador,Medição de pressão no sistema de ventilação.,02/06/2024,Medição e ajustes na pressão para melhor funcionamento.
+000119,Secador,Ventilador,Treinamento sobre manutenção preventiva no ventilador.,02/07/2024,Treinamento da equipe sobre manutenção adequada.
+000120,Secador,Ventilador,Ajustes no sistema elétrico do ventilador.,02/08/2024,Ajustes elétricos para evitar falhas operacionais.
