@@ -29,7 +29,6 @@ Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Ga
 000028,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,,12-03-24,,Lubrificação das lâminas do misturador.
 000029,Misturador,Sistema Elétrico,Sistema elétrico do misturador whey protein.,12-04-24,,Ajuste no sistema elétrico do misturador.
 000030,Misturizador,Sistema Hidráulico,Sistema hidráulico do Mistura Whey Protein.,13-03-24,,Ajuste no Sistema Hidráulico da Mistura Whey Protein.
-Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Gastas,Narrativa
 000031,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,01/01/2024,01/01/2024,3,Lubrificação de componentes mecânicos e verificação de desgaste.
 000032,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/02/2024,01/02/2024,2.5,Inspeção na parte pneumática, ajuste de válvulas.
 000033,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/03/2024,01/03/2024,3,Reparo de vazamento hidráulico e troca de filtros.
@@ -67,7 +66,6 @@ Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Ga
 000065,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,11-04-24,,Inspeção e limpeza dos filtros da peneira..
 000066,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,12-03-24,,Inspeção e limpeza dos filtros da peneira..
 000067,Peneira,Filtro,Peneira Hidráulica para separação da proteína,whey protein.,12-04-24,,Inspeção e limpeza dos filtros da peneira.
-Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Gastas,Narrativa
 000101,Embalagem,Robo,Verificação do sistema de controle do robô de embalagem,01/01/2024,01/01/2024,2,Inspeção no sistema de controle e ajustes.
 000102,Embalagem,Robo,Troca de peças do robô de embalagem,01/02/2024,01/02/2024,3,Troca de componentes desgastados.
 000103,Embalagem,Robo,Lubrificação do robô de embalagem,01/03/2024,01/03/2024,1.5,Lubrificação geral dos motores e articulações.
@@ -78,7 +76,6 @@ Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Ga
 000108,Embalagem,Robo,Cleaning do robô de embalagem,01/08/2024,01/08/2024,2,Limpeza completa do robô e verificação de funcionamento.
 000109,Embalagem,Robo,Ajustes finais no robô de embalagem antes da operação contínua,01/09/2024,01/09/2024,2.5,Ajustes e testes finais.
 000110,Embalagem,Robo,Treinamento da equipe sobre o uso do robô de embalagem atualizado,01/10/2024,01/10/2024,,Treinamento da equipe para operação segura e eficiente.
-Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Gastas,Narrativa
 000101,Secador,Ventilador,Inspeção do ventilador do secador de whey protein,01/01/2024,01/01/2024,2,Verificação de funcionamento e limpeza.
 000102,Secador,Ventilador,Troca de lâminas do ventilador do secador,01/02/2024,01/02/2024,3,Troca de lâminas desgastadas.
 000103,Secador,Ventilador,Lubrificação do motor do ventilador do secador,01/03/2024,01/03/2024,1.5,Lubrificação geral e verificação de ruídos.
@@ -99,5 +96,3 @@ Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Ga
 000118,Secador,Ventilador,Medição de pressão no sistema de ventilação.,02/06/2024,,Medição e ajustes na pressão para melhor funcionamento.
 000119,Secador,Ventilador,Treinamento sobre manutenção preventiva no ventilador.,02/07/2024,,Treinamento da equipe sobre manutenção adequada.
 000120,Secador,Ventilador,Ajustes no sistema elétrico do ventilador.,02/08/2024,,Ajustes elétricos para evitar falhas operacionais.
-
-
