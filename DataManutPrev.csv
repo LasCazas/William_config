@@ -1,0 +1,101 @@
+Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Gastas,Narrativa
+000001,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/01/2024,01/01/2024,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+000002,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/02/2024,01/02/2024,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+000003,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/03/2024,01/03/2024,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+000004,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/04/2024,01/04/2024,3,Reparo de vazamento hidráulico e troca de filtros.
+000005,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/05/2024,01/05/2024,2,Ajuste no funcionamento das esteiras e engrenagens.
+000006,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/06/2024,01/06/2024,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+000007,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/07/2024,01/07/2024,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+000008,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/08/2024,01/08/2024,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+000009,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/09/2024,01/09/2024,3,Reparo de vazamento hidráulico e troca de filtros.
+000010,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/10/2024,01/10/2024,2,Ajuste no funcionamento das esteiras e engrenagens.
+000011,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/11/2024,01/11/2024,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+000012,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/12/2024,01/12/2024,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+000013,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/01/2025,01/01/2025,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+000014,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/02/2025,01/02/2025,3,Reparo de vazamento hidráulico e troca de filtros.
+000015,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/03/2025,01/03/2025,2,Ajuste no funcionamento das esteiras e engrenagens.
+000016,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/04/2025,01/04/2025,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+000017,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/05/2025,01/05/2025,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+000018,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/06/2025,01/06/2025,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+000019,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/07/2025,01/07/2025,3,Reparo de vazamento hidráulico e troca de filtros.
+000020,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/08/2025,01/08/2025,2,Ajuste no funcionamento das esteiras e engrenagens.
+000021,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/09/2025,01/09/2025,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+000022,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/10/2025,01/10/2025,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+000023,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/11/2025,01/11/2025,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+000024,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/12/2025,01/12/2025,3,Reparo de vazamento hidráulico e troca de filtros.
+000025,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/01/2026,01/01/2026,2,Ajuste no funcionamento das esteiras e engrenagens.
+000026,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/02/2026,01/02/2026,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+000027,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/03/2026,01/03/2026,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+000028,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/04/2026,01/04/2026,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+000029,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/05/2026,01/05/2026,3,Reparo de vazamento hidráulico e troca de filtros.
+000030,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/06/2026,01/06/2026,2,Ajuste no funcionamento das esteiras e engrenagens.
+31,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/07/2026,01/07/2026,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+32,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/08/2026,01/08/2026,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+33,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/09/2026,01/09/2026,3,Reparo de vazamento hidráulico e troca de filtros.
+34,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/10/2026,01/10/2026,2,Ajuste no funcionamento das esteiras e engrenagens.
+35,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/11/2026,01/11/2026,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+36,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/12/2026,01/12/2026,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+37,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/01/2027,01/01/2027,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+38,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/02/2027,01/02/2027,3,Reparo de vazamento hidráulico e troca de filtros.
+39,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/03/2027,01/03/2027,2,Ajuste no funcionamento das esteiras e engrenagens.
+40,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/04/2027,01/04/2027,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+41,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/05/2027,01/05/2027,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+42,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/06/2027,01/06/2027,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+43,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/07/2027,01/07/2027,3,Reparo de vazamento hidráulico e troca de filtros.
+44,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/08/2027,01/08/2027,2,Ajuste no funcionamento das esteiras e engrenagens.
+45,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/09/2027,01/09/2027,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+46,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/10/2027,01/10/2027,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+47,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/11/2027,01/11/2027,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+48,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/12/2027,01/12/2027,3,Reparo de vazamento hidráulico e troca de filtros.
+49,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/01/2028,01/01/2028,2,Ajuste no funcionamento das esteiras e engrenagens.
+50,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/02/2028,01/02/2028,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+51,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/03/2028,01/03/2028,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+52,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/04/2028,01/04/2028,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+53,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/05/2028,01/05/2028,3,Reparo de vazamento hidráulico e troca de filtros.
+54,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/06/2028,01/06/2028,2,Ajuste no funcionamento das esteiras e engrenagens.
+55,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/07/2028,01/07/2028,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+56,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/08/2028,01/08/2028,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+57,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/09/2028,01/09/2028,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+58,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/10/2028,01/10/2028,3,Reparo de vazamento hidráulico e troca de filtros.
+59,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/11/2028,01/11/2028,2,Ajuste no funcionamento das esteiras e engrenagens.
+60,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/12/2028,01/12/2028,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+61,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/01/2029,01/01/2029,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+62,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/02/2029,01/02/2029,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+63,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/03/2029,01/03/2029,3,Reparo de vazamento hidráulico e troca de filtros.
+64,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/04/2029,01/04/2029,2,Ajuste no funcionamento das esteiras e engrenagens.
+65,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/05/2029,01/05/2029,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+66,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/06/2029,01/06/2029,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+67,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/07/2029,01/07/2029,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+68,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/08/2029,01/08/2029,3,Reparo de vazamento hidráulico e troca de filtros.
+69,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/09/2029,01/09/2029,2,Ajuste no funcionamento das esteiras e engrenagens.
+70,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/10/2029,01/10/2029,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+71,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/11/2029,01/11/2029,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+72,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/12/2029,01/12/2029,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+73,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/01/2030,01/01/2030,3,Reparo de vazamento hidráulico e troca de filtros.
+74,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/02/2030,01/02/2030,2,Ajuste no funcionamento das esteiras e engrenagens.
+75,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/03/2030,01/03/2030,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+76,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/04/2030,01/04/2030,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+77,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/05/2030,01/05/2030,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+78,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/06/2030,01/06/2030,3,Reparo de vazamento hidráulico e troca de filtros.
+79,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/07/2030,01/07/2030,2,Ajuste no funcionamento das esteiras e engrenagens.
+80,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/08/2030,01/08/2030,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+81,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/09/2030,01/09/2030,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+82,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/10/2030,01/10/2030,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+83,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/11/2030,01/11/2030,3,Reparo de vazamento hidráulico e troca de filtros.
+84,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/12/2030,01/12/2030,2,Ajuste no funcionamento das esteiras e engrenagens.
+85,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/01/2031,01/01/2031,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+86,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/02/2031,01/02/2031,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+87,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/03/2031,01/03/2031,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+88,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/04/2031,01/04/2031,3,Reparo de vazamento hidráulico e troca de filtros.
+89,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/05/2031,01/05/2031,2,Ajuste no funcionamento das esteiras e engrenagens.
+90,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/06/2031,01/06/2031,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+91,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/07/2031,01/07/2031,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+92,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/08/2031,01/08/2031,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+93,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/09/2031,01/09/2031,3,Reparo de vazamento hidráulico e troca de filtros.
+94,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/10/2031,01/10/2031,2,Ajuste no funcionamento das esteiras e engrenagens.
+95,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/11/2031,01/11/2031,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+96,Misturador,Blades,Misturador Mecânica sistema de mistura whey protein,01/12/2031,01/12/2031,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+97,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/01/2032,01/01/2032,2.5,Inspeção na parte pneumática, ajuste de válvulas.
+98,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/02/2032,01/02/2032,3,Reparo de vazamento hidráulico e troca de filtros.
+99,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/03/2032,01/03/2032,2,Ajuste no funcionamento das esteiras e engrenagens.
+100,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/04/2032,01/04/2032,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
