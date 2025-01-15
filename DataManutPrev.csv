@@ -78,4 +78,26 @@ Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Ga
 000108,Embalagem,Robo,Cleaning do robô de embalagem,01/08/2024,01/08/2024,2,Limpeza completa do robô e verificação de funcionamento.
 000109,Embalagem,Robo,Ajustes finais no robô de embalagem antes da operação contínua,01/09/2024,01/09/2024,2.5,Ajustes e testes finais.
 000110,Embalagem,Robo,Treinamento da equipe sobre o uso do robô de embalagem atualizado,01/10/2024,01/10/2024,,Treinamento da equipe para operação segura e eficiente.
+Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Data Termino,Horas Gastas,Narrativa
+000101,Secador,Ventilador,Inspeção do ventilador do secador de whey protein,01/01/2024,01/01/2024,2,Verificação de funcionamento e limpeza.
+000102,Secador,Ventilador,Troca de lâminas do ventilador do secador,01/02/2024,01/02/2024,3,Troca de lâminas desgastadas.
+000103,Secador,Ventilador,Lubrificação do motor do ventilador do secador,01/03/2024,01/03/2024,1.5,Lubrificação geral e verificação de ruídos.
+000104,Secador,Ventilador,Ajuste na velocidade do ventilador do secador,01/04/2024,01/04/2024,2,Ajuste na programação para otimização da secagem.
+000105,Secador,Ventilador,Montagem do ventilador após manutenção,01/05/2024,01/05/2024,2.5,Montagem e testes após manutenção.
+000106,Secador,Ventilador,Avaliação da eficiência do ventilador do secador,01/06/2024,01/06/2024,3,Avaliação e ajustes para melhorar a eficiência.
+000107,Secador,Ventilador,Troca de sensores do ventilador do secador,01/07/2024,01/07/2024,1.5,Troca dos sensores para melhor detecção.
+000108,Secador,Ventilador,Cleaning do ventilador do secador,01/08/2024,01/08/2024,2,Limpeza completa e verificação de funcionamento.
+000109,Secador,Ventilador,Ajustes finais no ventilador do secador antes da operação contínua,01/09/2024,01/09/2024,2.5,Ajustes e testes finais.
+000110,Secador,Ventilador,Treinamento da equipe sobre o uso do ventilador atualizado no secador,01/10/2024,01/10/2024,,Treinamento da equipe para operação segura e eficiente.
+000111,Secador,Ventilador,Troca de correias do ventilador do secador,01/11/2024,01/11/2024,,Troca das correias desgastadas.
+000112,Secador,Ventilador,Ajuste na inclinação do ventilador do secador para melhor fluxo de ar.,01/12/2024,,Ajustes na inclinação para otimização da secagem.
+000113,Secador,Ventilador,Avaliação de vibrações no ventilador do secador.,02/01/2024,,Verificação e ajustes nas vibrações.
+000114,Secador,Ventilador,Lubrificação das engrenagens do ventilador.,02/02/2024,,Lubrificação das engrenagens para evitar desgaste.
+000115,Secador,Ventilador,Ajuste no timer do ventilador.,02/03/2024,,Ajuste no timer para melhor controle de operação.
+000116,Secador,Ventilador,Troca de filtros de ar no ventilador.,02/04/2024,,Troca dos filtros para garantir qualidade de ar.
+000117,Secador,Ventilador,Avaliação da temperatura do ar no ventilador.,02/05/2024,,Verificação da temperatura para garantir eficiência.
+000118,Secador,Ventilador,Medição de pressão no sistema de ventilação.,02/06/2024,,Medição e ajustes na pressão para melhor funcionamento.
+000119,Secador,Ventilador,Treinamento sobre manutenção preventiva no ventilador.,02/07/2024,,Treinamento da equipe sobre manutenção adequada.
+000120,Secador,Ventilador,Ajustes no sistema elétrico do ventilador.,02/08/2024,,Ajustes elétricos para evitar falhas operacionais.
+
 
