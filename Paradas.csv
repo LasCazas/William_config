@@ -1,0 +1,32 @@
+Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Hora Inicio,Data Termino,Hora Termino,Horas Gastas,Narrativa
+000001,Misturador,Motor,Misturador Elétrica sistema de mistura whey protein,01/01/2024,08:00,01/01/2024,10:00,2,Inspeção no sistema de mistura elétrica, ajustes no circuito.
+000002,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,01/02/2024,09:00,01/02/2024,12:00,3,Lubrificação de componentes mecânicos e verificação de desgaste.
+000003,Secador,Resistência,Secador Pneumática sistema de secagem whey protein,01/03/2024,10:30,01/03/2024,12:00,1.5,Inspeção na parte pneumática, ajuste de válvulas.
+000004,Filtragem,Filtro,Filtragem Hidráulica sistema de filtragem whey protein,01/04/2024,11:00,01/04/2024,13:00,2,Bloqueio e troca de filtros.
+000005,Embalagem,Cinta,Embalagem Mecânica sistema de embalagem whey protein,01/05/2024,14:00,01/05/2024,15:00,1,Ajuste no funcionamento das esteiras e engrenagens.
+000006,Misturador,Sistema Elétrico,Misturador Elétrica sistema de mistura whey protein,01/06/2024,08:30,01/06/2024,10:30,2,Falha elétrica.
+000007,Misturador,Lâminas,Misturador Mecânica sistema de mistura whey protein,01/07/2024,09:15,01/07/2024,12:15,3,Lubrificação e ajuste das lâminas.
+000008,Secador,Ventilador,Ventilador do secador com falha técnica,01/08/2024,10:00,01/08/2024,12:30,2.5,Ajuste no ventilador para eficiência.
+000009,Filtragem,Filtro,Troca do filtro da filtragem necessária,01/09/2024,11:30,01/09/2024,13:00,1.5,Troca e limpeza do filtro.
+000010,Misturador,Sistema Hidráulico,Pausa para ajuste no sistema hidráulico do misturador,01/10/2024,14:00,01/10/2024,16:00,2,Ajustes necessários.
+000011,Misturador,Sistema Elétrico,Ajuste no sistema elétrico do misturador para evitar falhas.,01/11/2024,14:00,01/11/2024,16:00,2,Ajustes preventivos realizados.
+000012,Misturador,Lâminas,Lubrificação das lâminas do misturador,02-12-24,13:00,02-12-24,14:00,3,Lubrificação e verificação de desempenho.
+000013,Misturador,Sistema Hidráulico,Ajuste no sistema hidráulico do misturador,03-12-24,13:00,03-12-24,14:00,2,Ajustes necessários para evitar vazamentos.
+000014,Misturador,Sistema Elétrico,Pausa para verificação elétrica do misturador,04-12-24,14:00,04-12-24,15:30,1.5.Verificação elétrica pendente.
+000015,Misturador,Lâminas,Lubrificação das lâminas do misturador,05-12-24,14:00,05-12-24,16:00,2,Lubrificação pendente.
+000016,Misturador,Sistema Hidráulico,Ajuste no sistema hidráulico do misturador,06-12-24,16:00,06-12-24,17:30,1.5,Ajustes pendentes para evitar falhas.
+000017,Misturador,Sistema Elétrico,Pausa para verificação elétrica do misturador,07-12-24,13:00,07-12-24,14:30,1.5.Verificação elétrica pendente.
+000018,Misturador,Lâminas,Lubrificação das lâminas do misturador,,08-12-24,,08-12-24,,2,Lubrificação pendente.
+000019,Misturador,Sistema Hidráulico,Ajuste no sistema hidráulico do misturador,09-12-24,14:00,09-12-24,15:30,1.5,Ajustes pendentes para evitar falhas.
+Ordem,Equipamento,Subequipamento,Descricao,Data manutencao,Hora Inicio,Data Termino,Hora Termino,Horas Gastas,Narrativa
+000020,Misturador,Sistema Elétrico,Pausa para verificação elétrica do misturador,15:15,10-12-24,16:45,1.5,Verificação elétrica pendente.
+000021,Misturador,Lâminas,Lubrificação das lâminas do misturador,13:45,11-12-24,15:45,2.0,Lubrificação pendente.
+000022,Misturador,Sistema Hidráulico,Ajuste no sistema hidráulico do misturador,09:45,12-12-24,11:15,1.5,Ajustes pendentes para evitar falhas.
+000023,Misturador,Sistema Elétrico,Pausa para verificação elétrica do misturador,15:45,13-12-24,17:15,1.5,Verificação elétrica pendente.
+000024,Misturador,Lâminas,Lubrificação das lâminas do misturador,12:30,14-12-24,14:30,2.0,Lubrificação pendente.
+000025,Misturador,Sistema Hidráulico,Ajuste no sistema hidráulico do misturador,08:45,15-12-24,10:15,1.5,Ajustes pendentes para evitar falhas.
+000026,Misturador,Sistema Elétrico,Pausa para verificação elétrica do misturador,15:45,16-12-24,17:15,1.5,Verificação elétrica pendente.
+000027,Misturador,Lâminas,Lubrificação das lâminas do misturador,08:00,17-12-24,10:00,2.0,Lubrificação pendente.
+000028,Misturador,Sistema Hidráulico,Ajuste no sistema hidráulico do misturador,14:15,18-12-24,15:45,1.5,Ajustes pendentes para evitar falhas.
+000029,Misturador,Sistema Elétrico,Pausa para verificação elétrica do misturador,07:30,19-12-24,09:00,1.5,Verificação elétrica pendente.
+000030,Misturador,Lâminas,Lubrificação das lâminas do misturador,14:30,20-12-24,16:30,2.0,Lubrificação pendente.
